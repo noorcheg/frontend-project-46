@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Ainur",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
 }
